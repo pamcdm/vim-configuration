@@ -2,4 +2,7 @@
 My vim configuration
 
 Install vim configuration
-`./setup.sh`
+``
+git@github.com:pamcdm/vim-configuration.git ~/.vim
+./setup.sh
+``
